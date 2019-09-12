@@ -7,5 +7,7 @@
 # Tugas Praktikum
 ![Alt Text](https://github.com/adellaaishwara/Arraybiodata/blob/master/Array06.PNG)
 ![Alt Text](https://github.com/adellaaishwara/Arraybiodata/blob/master/Array07.PNG)
+# Array Teman Sederet
 ![Alt Text](https://github.com/adellaaishwara/Arraybiodata/blob/master/Array08.PNG)
+# Challenge01
 ![Alt Text](https://github.com/adellaaishwara/Arraybiodata/blob/master/ArrayChallenge1.PNG)
